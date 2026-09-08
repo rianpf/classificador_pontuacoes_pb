@@ -4,7 +4,7 @@ Modelo de aprendizado de máquina desenvolvido para a inserção automática de 
 
 ## 📌 Sobre o Projeto
 
-Este repositório contém os artefatos da pesquisa de mestrado desenvolvida na **Universidade de São Paulo (USP)**. O sistema visa estruturar e melhorar a legibilidade de textos gerados por sistemas de ASR no PB através da identificação de contornos intonacionais e prosódicos.
+Este repositório contém os artefatos da pesquisa de mestrado desenvolvida na **Universidade de São Paulo (USP)**. O sistema visa classificar sentenças entre exclamativas, interrogativas ou delcarativas.
 
 ## 📁 Conteúdo do Repositório
 
