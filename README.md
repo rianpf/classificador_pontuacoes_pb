@@ -11,3 +11,10 @@ Este repositório contém os artefatos da pesquisa de mestrado desenvolvida na *
 * `modelo_completo_prosodia.pt`: Modelo treinado em PyTorch contendo os pesos para classificação das pontuações.
 * `audios_mupe_900.zip`: Conjunto de dados com 900 arquivos de áudio em formato `.wav` (gerenciado via Git LFS).
 * `.gitattributes`: Configuração do Git LFS para rastreamento de arquivos grandes.
+
+## 📖 Citação Acadêmica / Citation
+
+Se você utilizar este modelo ou conjunto de dados em sua pesquisa, por favor cite:
+
+```text
+FERNANDES, Rian Pereira. Processamento de sentenças exclamativas e interrogativas para o Reconhecimento Automático de Fala no português brasileiro. 2026. 92 f. Dissertação (Mestrado) – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 2026.
